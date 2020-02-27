@@ -37,6 +37,16 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
 - Now, put those same commands in a text file ending with a `.py` extension (e.g., `test.py`).
 - At the bash command prompt, type `python test.py`.
 - What do you see?
+- The `.py` extension isn't required, but is conventional for Python code.
 
 ### Jupyter Notebooks
 
+- Jupyter notebooks are a special type of file that allows formatted notes to be mixed with Python code.
+- These notebooks can be run on SuperMike through OnDemand.
+- To open a Jupyter notebook, go to the "Interactive Apps" menu at the top and select "Jupyter Notebook".
+- A form will be displayed that asks for some information. For now, please use these options:
+    - Account: "hpc_icbio01"
+    - Queue: "single"
+    - Number of hours: 1
+    - Number of nodes: 1
+- 

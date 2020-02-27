@@ -20,10 +20,23 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
 - Python is _much_ less picky than bash about spacing within lines, though
 - Dynamically typed (don't worry, we'll get to this later)
 
-## Python Interpreter and Jupyter Notebooks
+## Three Ways to Run Python
+
+### Python Interpreter
 
 - Unlike many programming languages (e.g., C++ and Java), Python can be executed interactively.
 - To start the Python interpreter, simply open up a Terminal window and type `python`.
 - Once the Python prompt (`>>>`) appears, type:
     - `a = 3`
-    - `a`
+    - `print(a)`
+- What do you see?
+- To exit the Python interpreter, type `quit()`.
+
+### Command-line Python
+
+- Now, put those same commands in a text file ending with a `.py` extension (e.g., `test.py`).
+- At the bash command prompt, type `python test.py`.
+- What do you see?
+
+### Jupyter Notebooks
+

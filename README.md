@@ -124,3 +124,15 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
 - [Python](https://www.python.org)
 - [Software Carpentry - Intro. to Python](http://swcarpentry.github.io/python-novice-inflammation/)
 
+## Week 7 Assignment
+
+For this week's assignment, please write a Python script that does the following:
+
+(1) Creates two variables to store decimal (floating point) numbers
+(2) Assigns values to these variables
+(3) Performs some mathematical operation with these variables (e.g., addition, subtraction, multiplication, or division)
+(4) Creates a string that describes the mathematical operation (e.g., "This script multiplied 8.0 times 2.0 and got 16.0")
+(5) Prints the string describing the operation to the screen
+
+As usual, please submit your script by adding it to the assignments folder in your fork of this week's notes and submitting a pull request.
+

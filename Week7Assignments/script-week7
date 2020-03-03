@@ -1,0 +1,13 @@
+                                                                   
+#create two variables
+FirstVar = 12.8
+SecondVar = 3
+#perform mathematical operation
+print ( FirstVar / SecondVar )
+#create a string that describes mathematical operation (convert the float variables to strings and concatenating all of the relevant strings$
+myStr = "This is the result of "
+NewStr = myStr + str(FirstVar)
+NewStr = NewStr + " divided by "
+NewStr = NewStr + str(SecondVar)
+#print the string
+print(NewStr)
